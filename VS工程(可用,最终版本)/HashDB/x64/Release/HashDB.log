@@ -1,0 +1,7 @@
+﻿  HashDB.cpp
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+F:\GithubDesktop\SM3HashDB\VS工程(可用,最终版本)\HashDB\HashDB.cpp(330): warning C4715: “HashDB::getAll”: 不是所有的控件路径都返回值
+  All 333 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HashDB.vcxproj -> F:\GithubDesktop\SM3HashDB\VS工程(可用,最终版本)\HashDB\x64\Release\HashDB.exe

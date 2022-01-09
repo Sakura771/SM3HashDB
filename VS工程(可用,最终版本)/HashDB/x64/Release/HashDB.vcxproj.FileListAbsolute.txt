@@ -1,0 +1,2 @@
+E:\Visual Studio C++\HashDb\HashDB\x64\Release\HashDB.exe
+F:\GithubDesktop\SM3HashDB\VS工程(可用,最终版本)\HashDB\x64\Release\HashDB.exe
